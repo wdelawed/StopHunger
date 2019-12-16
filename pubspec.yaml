@@ -58,7 +58,28 @@ flutter:
     - assets/images/phone.png
     - assets/images/location.png
     - assets/images/meal-placeHolder.png
+    - assets/images/meal-expanded.png
     - assets/images/meal-location.png
+    - assets/images/appBar-location.png
+    - assets/images/appBar-search.png
+    - assets/images/appBar-notification.png
+    - assets/images/appBarImage.png
+    - assets/images/myoffers-icon-active.png
+    - assets/images/mystore-icon-active.png
+    - assets/images/myorders-icon-active.png
+    - assets/images/myoffers-icon.png
+    - assets/images/mystore-icon.png
+    - assets/images/myorders-icon.png
+    - assets/images/arrow.png
+
+    - assets/images/drawer/first.png
+    - assets/images/drawer/second.png
+    - assets/images/drawer/third.png
+    - assets/images/drawer/fourth.png
+    - assets/images/drawer/fifth.png
+    - assets/images/drawer/sixth.png
+    - assets/images/drawer/seventh.png
+    - assets/images/drawer/avatar.png
 
   #  - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
