@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:productivefamiliestest/orders/orders.dart';
+import 'package:productivefamiliestest/orders/main-page.dart';
 
 // Create a Form widget.
 class RegisterForm extends StatefulWidget {
@@ -293,7 +293,7 @@ class RegisterFormState extends State<RegisterForm> {
                       ),
                       onPressed: () {
                         Navigator.push(context,
-                            MaterialPageRoute(builder: (_) => Orders()));
+                            MaterialPageRoute(builder: (_) => HomePage()));
                       },
                       textColor: Colors.white,
                       child: Container(
